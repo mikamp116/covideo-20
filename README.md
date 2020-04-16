@@ -1,2 +1,2 @@
 # covideo-20
-covideo-20 let's two people watch the same video at the same time, without the needing of having the video uploaded to the cloud, it works in local
+covideo-20 lets two people watch the same video online with sinchronization, without the need of having the video uploaded to the cloud, it works in local
